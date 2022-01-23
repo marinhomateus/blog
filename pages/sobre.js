@@ -8,7 +8,7 @@ export default function Sobre() {
   return (
     <div>
       <header>
-        <Title color="red">About Page</Title>
+        <Title color="red">This is an About Page</Title>
       </header>
 
       <Link href="/">
